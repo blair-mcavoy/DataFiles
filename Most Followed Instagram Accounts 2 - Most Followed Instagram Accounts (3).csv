@@ -1,0 +1,51 @@
+id,Rank,Username,Owner,Followers in millions,Profession/Activity,Country/Region,Image
+1,1,@instagram,Instagram,353,Social media platform,United States,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1920px-Instagram_logo_2016.svg.png
+2,2,@cristiano,Cristiano Ronaldo,224,Footballer,Portugal,https://upload.wikimedia.org/wikipedia/commons/8/8c/Cristiano_Ronaldo_2018.jpg
+3,3,@arianagrande,Ariana Grande,190,Musician and actress,United States,https://upload.wikimedia.org/wikipedia/commons/d/dd/Ariana_Grande_Grammys_Red_Carpet_2020.png
+4,4,@therock,Dwayne Johnson,187,Actor and professional wrestler,United States,https://upload.wikimedia.org/wikipedia/commons/6/6f/Dwayne_Johnson_Hercules_2014_%28cropped%29.jpg
+5,5,@kyliejenner,Kylie Jenner,181,Television personality and businesswoman,United States,https://upload.wikimedia.org/wikipedia/commons/d/de/Kylie_Jenner_2021_%28cropped%29.jpg
+6,6,@selenagomez,Selena Gomez,180,Musician and actress,United States,https://www.usmagazine.com/wp-content/uploads/2021/04/Whoa-Selena-Gomez-Looks-Like-A-Totally-Different-Person-With-Platinum-Blonde-Hair-Promo.jpg?w=1600&quality=86&strip=all
+7,7,@kimkardashian,Kim Kardashian West,175,Television personality and businesswoman,United States,https://cdn.cnn.com/cnnnext/dam/assets/210629022041-kim-kardashian-file-exlarge-169.jpg
+8,8,@leomessi,Lionel Messi,155,Footballer,Argentina,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Lionel_Messi_20180626.jpg/440px-Lionel_Messi_20180626.jpg
+9,9,@beyonce,Beyoncé,148,Musician,United States,https://www.biography.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cg_face%2Cq_auto:good%2Cw_300/MTU0MTU0MTc3NzkzMTA3MzU1/beyonce-attends-tidal-x-1015-on-october-15-2016-in-new-york-city-photo-by-theo-wargogetty-images-for-tidal-sqaure.jpg
+10,10,@neymarjr,Neymar,139,Footballer,Brazil,https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Bra-Cos_%281%29_%28cropped%29.jpg/440px-Bra-Cos_%281%29_%28cropped%29.jpg
+11,11,@justinbieber,Justin Bieber,139,Musician,Canada,https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Justin_Bieber_in_2015.jpg/440px-Justin_Bieber_in_2015.jpg
+12,12,@natgeo,National Geographic,138,Magazine,United States,https://609528.smushcdn.com/606234/wp-content/uploads/2020/01/National-Geographic-logo.jpg?lossy=1&strip=1&webp=1
+13,13,@taylorswift,Taylor Swift,134,Musician,United States,https://media1.popsugar-assets.com/files/thumbor/hnVKqXE-xPM5bi3w8RQLqFCDw_E/475x60:1974x1559/fit-in/2048xorig/filters:format_auto-!!-:strip_icc-!!-/2019/09/09/023/n/1922398/9f849ffa5d76e13d154137.01128738_/i/Taylor-Swift.jpg
+14,14,@kendalljenner,Kendall Jenner,131,Television personality and model,United States,https://media.allure.com/photos/621e32e93c1316abf45cb59b/16:9/w_2560%2Cc_limit/kendall%2520jenner%2520.jpg
+15,15,@jlo,Jennifer Lopez,123,Musician and actress,United States,https://media.glamour.com/photos/61672db159d49b1f5ab33c8f/master/pass/GettyImages-1141979804.jpg
+16,16,@nickiminaj,Nicki Minaj,116,Musician,Trinidad and Tobago,https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_37/2913291/190627-nikki-minaj-se-521p.jpg
+17,17,@nike,Nike,114,Sportswear multinational,United States,"https://static.nike.com/a/images/f_jpg,q_auto:eco/61b4738b-e1e1-4786-8f6c-26aa0008e80b/swoosh-logo-black.png"
+18,18,@khloekardashian,Khloé Kardashian,114,Television personality and businesswoman,United States,https://variety.com/wp-content/uploads/2022/03/khloe-kardashian-1.jpg?w=681&h=383&crop=1
+19,19,@mileycyrus,Miley Cyrus,110,Musician and actress,United States,https://static.onecms.io/wp-content/uploads/sites/20/2021/10/15/miley-cyrus-1.jpg
+20,20,@katyperry,Katy Perry,99,Musician,United States,https://www.biography.com/.image/t_share/MTU1NDc3Nzg3NjYxMDUxODYz/-katy-perry-attends-the-chanel-haute-couture-fallwinter-2017-2018-show-as-part-of-haute-couture-paris-fashion-week-on-july-4-2017-in-paris-france-photo-by-pascal-le-segretaingetty-images.jpg
+21,21,@kourtneykardash,Kourtney Kardashian,94,Television personality,United States,https://media.allure.com/photos/61cc8449a1adfb39622136a4/16:9/w_2560%2Cc_limit/Kourtney%2520Kardashian%2520at%25202021%2520VMAs.jpg
+22,22,@kevinhart4real,Kevin Hart,93,Comedian and actor,United States,https://pbs.twimg.com/profile_images/839198522385793025/jPENEMJT_400x400.jpg
+23,23,@theellenshow,Ellen DeGeneres,90,Comedian and television personality,United States,https://ca-times.brightspotcdn.com/dims4/default/2358f19/2147483647/strip/true/crop/2493x1919+0+0/resize/840x647!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Ff5%2F99%2Fe47d8a1145de8e9b607e4ab4db53%2Fap21132545367098.jpg
+24,24,@realmadrid,Real Madrid CF,88,Football club,Spain,https://www.realmadrid.com/StaticFiles/RealMadridResponsive/images/static/og-image.png
+25,25,@fcbarcelona,FC Barcelona,86,Football club,Spain,https://upload.wikimedia.org/wikipedia/en/thumb/4/47/FC_Barcelona_%28crest%29.svg/1200px-FC_Barcelona_%28crest%29.svg.png
+26,26,@ddlovato,Demi Lovato,85,Musician and actress,United States,https://www.usmagazine.com/wp-content/uploads/2021/07/Demi-Lovato-OK-With-Misgendering-Mistakes-Grateful-for-Your-Effort-001.jpg?w=1600&quality=86&strip=all
+27,27,@badgalriri,Rihanna,83,Musician and businesswoman,Barbados,https://pbs.twimg.com/profile_images/1133109643734130688/BwioAwkz.jpg
+28,28,@zendaya,Zendaya,71,Actress and musician,United States,https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Zendaya_-_2019_by_Glenn_Francis.jpg/1200px-Zendaya_-_2019_by_Glenn_Francis.jpg
+29,29,@victoriassecret,Victoria's Secret,68,Clothing brand,United States,https://logos-world.net/wp-content/uploads/2020/05/Victoria-Secret-Logo.png
+30,30,@iamcardib,Cardi B,68,Musician,United States,"https://images.complex.com/complex/images/c_fill,dpr_auto,f_auto,q_auto,w_1400/fl_lossy,pg_1/cu02nm8vmkj8herjzxoi/cardi-b-deletes-twitter-account?fimg-ssr-default"
+31,31,@champagnepapi,Drake,68,Musician,Canada,https://ichef.bbci.co.uk/news/976/cpsprodpb/18357/production/_121995199_gettyimages-1172292629.jpg
+32,32,@shakira,Shakira,67,Musician,Colombia,https://pbs.twimg.com/profile_images/1461668153587650562/xwxnyMmj_400x400.jpg
+33,33,@chrisbrownofficial,Chris Brown,66,Musician,United States,https://thesource.com/wp-content/uploads/2021/06/Screen-Shot-2021-06-22-at-9.10.12-AM.png
+34,34,@kingjames,LeBron James,66,Basketball player,United States,https://library.sportingnews.com/2021-12/lebron-james-los-angeles-lakers_kej02uf93prj18vqxkh8dfnqk.png
+35,35,@billieeilish,Billie Eilish,64,Musician,United States,"https://media.allure.com/photos/605247e1bddfa641546fa160/1:1/w_2264,h_2264,c_limit/billie%20eilish.jpg"
+36,36,@vindiesel,Vin Diesel,64,Actor,United States,https://cdn.britannica.com/97/194197-050-5BD88874/Vin-Diesel-The-Fast-and-the-Furious.jpg
+37,37,@virat.kohli,Virat Kohli,63,Cricketer,India,https://e0.365dm.com/22/01/2048x1152/skysports-virat-kohli-cricket_5642119.jpg
+38,38,@davidbeckham,David Beckham,63,Footballer,United Kingdom,"https://media.gq.com/photos/56e853e7161e63486d04d6c8/4:3/w_1600,h_1200,c_limit/david-beckham-gq-0416-2.jpg"
+39,39,@championsleague,UEFA Champions League,59,Club football competition,Europe,https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png
+40,40,@nasa,NASA,59,Space agency,United States,https://www.nasa.gov/sites/default/files/thumbnails/image/nasa-logo-web-rgb.png
+41,41,@justintimberlake,Justin Timberlake,59,Musician and actor,United States,https://cdn.britannica.com/07/173707-050-6C97735C/Justin-Timberlake.jpg?w=400&h=300&c=crop
+42,42,@emmawatson,Emma Watson,57,Actress,United Kingdom,https://images.businessoffashion.com/profiles/asset/1576627872477040/emma-watson-1577236307043261.png?auto=format%2Ccompress&crop=top&fit=crop&h=576&w=1024
+43,43,@shawnmendes,Shawn Mendes,56,Musician,Canada,https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F20%2F2021%2F12%2F01%2Fshawn-mendes.jpg&q=60
+44,44,@gigihadid,Gigi Hadid,54,Model,United States,"https://media.glamour.com/photos/61db444adb1997e6b8fe4032/2:3/w_720,h_1080,c_limit/gigi-hadid.jpg"
+45,45,@priyankachopra,Priyanka Chopra,53,Actress and musician,India,https://upload.wikimedia.org/wikipedia/commons/6/6c/Priyanka-chopra-gesf-2018-7565.jpg
+46,46,@9gag,9GAG,53,Social media platform,Hong Kong,https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/9gag_logo.svg/1200px-9gag_logo.svg.png
+47,47,@ronaldinho,Ronaldinho,51,Footballer,Brazil,https://www.fcbarcelona.com/photo-resources/2020/04/14/639c7218-9549-4978-9019-80ec2584b1b2/RONALDINHO.png?width=600&height=820
+48,48,@maluma,Maluma,51,Musician,Colombia,https://media.allure.com/photos/620edb58f4c81b1285bd5d13/16:9/w_2560%2Cc_limit/maluma-lede.jpg
+49,49,@camila_cabello,Camila Cabello,50,Musician,Cuba,https://m.media-amazon.com/images/M/MV5BOTc0MGMzNDEtMWIzZS00Mzg5LWI3MGMtMDg3MGNmYTBiMzYxXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_.jpg
+50,50,@deepikapadukone,Deepika Padukone,49,Actress,India,https://images.hindustantimes.com/img/2022/02/20/1600x900/Deepika_Padukone_Gehraiyaan_1645337273884_1645337274005.jpg
